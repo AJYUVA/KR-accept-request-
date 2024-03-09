@@ -12,9 +12,9 @@ import random, asyncio
 
 app = Client(
     "approver",
-    api_id=cfg.API_ID,
-    api_hash=cfg.API_HASH,
-    bot_token=cfg.BOT_TOKEN
+    api_id=cfg.17624470,
+    api_hash=cfg.77adcccdc70bc3bdedbc0d1b3b9bb6ee,
+    bot_token=cfg.7064198681:AAHzASZXfXZPcSlIWfUub6XJSVHktJ5kiHg
 )
 
 gif = [
